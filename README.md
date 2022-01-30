@@ -1,1 +1,1 @@
-# INFO6205Spring2022
+# INFO 6205 Spring 2022
